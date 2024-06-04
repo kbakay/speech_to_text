@@ -1,0 +1,2 @@
+This code converts an audio file into text as dialogues between speaker 1 and speaker 2, and then transfers the resulting dialogues into an Excel table. 
+If the text contains any words from a specified list, the code adds a warning message to the beginning of the file name.
