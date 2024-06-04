@@ -1,2 +1,5 @@
+Bu kod içinde ses dosyaları bulunan bir klasördeki bütün ses dosyasını diyaloglar halinde speaker 1 and speaker 2 olarak metne çevirir ve çıkan diyalogları excel e tablo olarak aktarır 
+ve eğer içinde belirttiğimiz listeden kelimeler varsa dosyanın isminin başına uyarı cümlemizi ekler.
+<
 This code converts all audio files in a folder into text as dialogues between speaker 1 and speaker 2, 
 transfers the resulting dialogues into an Excel table, and if the text contains any words from a specified list, adds a warning message to the beginning of the file name.
